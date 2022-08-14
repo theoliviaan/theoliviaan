@@ -2,7 +2,7 @@
 
 
 
-I'm a Software Engineer. I create technical content (on my [Blog](https://theoliviaan.hashnode.dev/.
+I'm a Software Engineer. I create technical content on my [Blog] (https://theoliviaan.hashnode.dev/).
 You can also reach me on [Twitter] (https://twitter.com/_oliviaan/), [LinkedIn] (https://www.linkedin.com/in/olivia-akabogu/)
 
 **Here's a quick summary about me**:
@@ -16,5 +16,4 @@ You can also reach me on [Twitter] (https://twitter.com/_oliviaan/), [LinkedIn] 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
-| ------------- | ------------- |
+

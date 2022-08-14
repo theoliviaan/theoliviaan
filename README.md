@@ -16,4 +16,5 @@ I'm a Software Engineer. I create technical content on my [Blog](https://theoliv
 
 ---
 
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=theoliviaan&show_icons=true&include_all_commits=true&hide_border=true" alt="Olivia's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoliviaan&langs_count=8&layout=compact&hide=php&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| ------------- | ------------- |

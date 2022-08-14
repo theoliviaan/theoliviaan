@@ -1,7 +1,7 @@
 # Hello there; I am Olivia 👋
 
  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/olivia-akabogu)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/olivia-akabogu)
 
 I'm a Software Engineer. I create technical content on my [Blog](https://theoliviaan.hashnode.dev)
 

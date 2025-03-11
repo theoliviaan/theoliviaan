@@ -8,10 +8,9 @@ I'm a Data Analyst/ Aspiring Software Engineer. I create technical content on my
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: Her/She
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Python.
+- 🌱 Constantly Learning.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Data Scientist.
 - 📫 You can [view my resume](#) and contact me by emailing akabogu.olivia@gmail.com
 
 ---
